@@ -26,11 +26,11 @@ Este tutorial está diseñado como un camino de aprendizaje que cubre:
 
 Puedes ejecutar este proyecto directamente en la nube:
 
-1. Haz clic en el botón de [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/kris-aid/web_scrapping/blob/main/class_web_scrapping.ipynb)
+1. Haz clic en el botón de [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/kris-aid/web_scrapping/notebook_clase/blob/main/clase_web_scrapping_es.ipynb)
 
 2. O correlo aqui: [Open in Colab](https://colab.research.google.com/drive/1_zJHQRMDm9Qbg3KDNEYdRhxYfyzYc1g1?usp=sharing)
 
-3. O clona este repositorio y abre el archivo `notebook_clase/class_web_scrapping.ipynb.ipynb` en tu entorno local:
+3. O clona este repositorio y abre el archivo `notebook_clase/class_web_scrapping.ipynb` en tu entorno local:
 
 
 ```bash
