@@ -14,7 +14,8 @@ Este tutorial está diseñado como un camino de aprendizaje que cubre:
 * `BeautifulSoup`: La librería estándar para navegar el HTML.
 
 
-3. **Casos Prácticos:** * Extracción de vacantes de empleo en sitios estáticos.
+3. **Casos Prácticos:**
+* Extracción de vacantes de empleo en sitios estáticos.
 * Scraping avanzado de una librería online con **paginación y extracción de calificaciones**.
 
 
